@@ -1,0 +1,29 @@
+
+[
+
+{
+  "Id": "1",
+  "vendorTaxId": "GSTIN98909091P",
+  "name": "Test ABC Technologies Pvt Ltd",
+  "address": "Plot No. 45, MG Road, Bangalore",
+  "city": "Bangalore",
+  "country": "India"
+},
+{
+  "Id": "2",
+  "vendorTaxId": "GSTIN98909092Q",
+  "name": "XYZ Solutions",
+  "address": "Sector 18, Noida",
+  "city": "Noida",
+  "country": "India"
+},
+{
+  "Id": "3",
+  "vendorTaxId": "GSTIN98909093R",
+  "name": "TechNova Systems",
+  "address": "Hitech City",
+  "city": "Hyderabad",
+  "country": "India"
+}
+
+]

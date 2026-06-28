@@ -1,0 +1,7 @@
+{
+  "baseURL": "https://acme-test.uipath.com/login",
+  "ValidUser": {
+    "username": "courseforlearnING50@gmail.com",
+    "password": "Abcd@1234"
+  }
+}

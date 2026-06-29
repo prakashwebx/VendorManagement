@@ -33,6 +33,9 @@ class AddVendor {
     await this.vendorAddressInput.fill(Address);
     await this.vendorCityInput.fill(City);
     await this.vendorCountryInput.fill(Country);
+    await this.page.once("dialog", dialog=>{
+      dialog.accept();
+    })
     await this.saveVendorBtn.click();
     
 
